@@ -20,3 +20,7 @@ Run npm install to install the dependencies
 
 The App should be running at: http://localhost:3000
   
+### To test the sensors
+- open IDE arduino
+- compile SensorFlowDataAPI.ino
+- conected esp32
