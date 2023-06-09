@@ -8,7 +8,7 @@ Run npm install to install the dependencies
 - npx hardhat functions-sub-fund --subid REPLACE_SUBSCRIPTION_ID --amount 1 --network polygonMumbai
 4. Set an encryption password for your environment variables.
 - npx env-enc set-pw
-3. read data
+5. read data
 - npx hardhat functions-read  --contract 0x580E17a6be1935739d4986EB16b57c75383B090E  --network polygonMumbai --configpath tutorials/8-my-api/config.js
 ## To read data from frontend
 1. cd frontend
